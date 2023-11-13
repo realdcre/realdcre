@@ -1,4 +1,8 @@
 ### Hi there 👋
+I am realdcre, but you can call me dcre. I am a developer and tech-interested person from germany.
+I code in Python, Java, C, C++, C# and a few others...
+
+*i am like most programmers, so dont ask about my code... XD*
 
 <!--
 **realdcre/realdcre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
