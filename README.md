@@ -2,7 +2,7 @@
 I am realdcre, but you can call me dcre. I am a developer and tech-interested person from germany.
 I code in Python, Java, C, C++, C# and a few others...
 
-*i am like most programmers, so dont ask about my code... XD*
+
 
 
 🔭  Currently working on: Creating a AIO-Install guide for W10 IoT Enterprise LTSC
