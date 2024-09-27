@@ -5,9 +5,7 @@ I code in Python, Java, C, C++, C# and a few others...
 
 
 
-🔭  Currently working on: Creating a AIO-Install guide for W10 IoT Enterprise LTSC
-🌱 Currently learning nothing
-⚡ Top 1500 Player in Rocket League and low 5 digit in osu!
+🔭  Currently working on: Building a Notification-App for Android
 <!--
 **realdcre/realdcre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
