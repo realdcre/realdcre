@@ -1,6 +1,7 @@
 ### Hi there 👋
 I am realdcre, but you can call me dcre. I am a developer and tech-interested person from germany.
-I code in Python, Java, C, C++, C# and a few others...
+
+I try a little bit of everything
 
 
 
