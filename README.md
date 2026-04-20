@@ -1,5 +1,10 @@
 ![profilePictur](https://avatars.githubusercontent.com/u/107809443?s=400&u=318eaedaf9ac23ee15d823a481ad92ed128f674a&v=4)
 
+Look at my projects on Codeberg or Gitea:
+https://codeberg.org/dcre
+https://gitea.com/dcre
+
+
 # 👋 Hey there!
 
 ## Welcome to my GitHub! I'm super glad you stopped by. Here’s a little bit about me and what I’m up to.
